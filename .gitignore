@@ -1,0 +1,16 @@
+.env
+.env.*
+**/.env
+*/.env.
+*.env
+
+azure_config.json
+openai_config.json
+config.local.json
+
+pycache/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+*.mypy_cache/
