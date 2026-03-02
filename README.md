@@ -6,7 +6,7 @@ Microsoft Azure AI Certifications
 
 This repository documents the Microsoft-certified learning paths I completed to develop practical skills in Artificial Intelligence using Microsoft Azure.
 
-These certifications focus on building AI-powered systems, intelligent agents, and computer vision solutions using modern Azure AI services.
+These certifications focus on building AI-powered systems, intelligent agents, computer vision solutions, and natural language processing applications using modern Azure AI services.
 
 ---
 
@@ -75,6 +75,42 @@ These certifications focus on building AI-powered systems, intelligent agents, a
 
 ---
 
+### 3. Develop Natural Language Solutions in Azure
+
+**Level:** Intermediate  
+**Roles:** AI Engineer, NLP Developer  
+**Technologies:**
+- Azure AI Language
+- Azure Translator
+- Azure Speech
+- Conversational Language Understanding (CLU)
+- Custom Named Entity Recognition
+- Custom Text Classification
+- Azure AI Voice Live API
+
+#### Skills Acquired
+
+- Building conversational AI applications
+- Designing intent recognition models
+- Creating and managing question answering knowledge bases
+- Implementing custom text classification models
+- Developing custom named entity recognition solutions
+- Implementing speech-to-text and text-to-speech solutions
+- Building real-time speech translation systems
+- Developing multimodal and voice-enabled AI applications
+
+#### Key Concepts
+
+- Natural Language Processing (NLP) architectures
+- Intent, utterance, and entity modeling
+- Retrieval-augmented generation (RAG) for knowledge-based systems
+- Precision, recall, and F1 evaluation metrics
+- Multimodal AI systems (text + audio)
+- Real-time voice agent orchestration
+- Production deployment of NLP systems on Azure
+
+---
+
 ## Learning Outcomes
 
 These certifications strengthened my ability to:
@@ -82,12 +118,9 @@ These certifications strengthened my ability to:
 - Design production-ready AI systems
 - Build AI agents with knowledge retrieval
 - Develop computer vision pipelines
+- Develop advanced NLP and conversational AI systems
+- Implement speech and translation solutions
 - Deploy AI solutions on Microsoft Azure
 - Integrate AI into real-world applications
 
 ---
-
-## Author
-
-Simone Torrengo
-AI Engineering & Data Science
